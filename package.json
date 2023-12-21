@@ -1,6 +1,6 @@
 {
   "name": "@pier-wallet/html5-qrcode",
-  "version": "2.3.10",
+  "version": "2.3.11",
   "description": "A cross platform HTML5 QR Code & bar code scanner",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
